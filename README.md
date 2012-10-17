@@ -32,6 +32,8 @@ Copy `system/expressionengine/third_party/blade_break` to your `system/expressio
 	
 ## Support ##
 
+[Github Issues](https://github.com/Natetronn/break-blade/issues)
+
 [http://natetronn.com](http://natetronn.com)
 
 [@natetronn](http://twitter.com/natetronn)
