@@ -1,3 +1,5 @@
+NOTE: This is add-on is no longer being supported and will not be updated for EE3. Fork it if you like.
+
 # Break Blade #
 ## It's like Fruit Ninja but, with breaks! ##
 
